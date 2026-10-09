@@ -8,3 +8,6 @@ obj/
 # IDE
 .vscode/
 .idea/
+
+# Custom / Samples
+sample/
